@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap');
+
+/* font-family: 'Mulish', sans-serif; */
+
+@font-face {
+    font-family: d-regular;
+    src: url(../font/domain-display-narrow-cufonfonts/DomaineDispNar-Regular.otf) format("opentype");
+}
+
+@font-face {
+    font-family: d-medium;
+    src: url(../font/domain-display-narrow-cufonfonts/DomaineDispNar-Medium.otf) format("opentype");
+}
+
+@font-face {
+    font-family: d-sbold;
+    src: url(../font/domain-display-narrow-cufonfonts/DomaineDispNar-Semibold.otf) format("opentype");
+}
+
+@font-face {
+    font-family: d-bold;
+    src: url(../font/domain-display-narrow-cufonfonts/DomaineDispNar-Bold.otf) format("opentype");
+}
+
+
